@@ -1,1 +1,1 @@
-# Build-a-Real-Time-Client-Project-Dashboard-with-Role-Based-Access-Live-Activity-Feed
+# velozity-client-dashboard
